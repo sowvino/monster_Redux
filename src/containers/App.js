@@ -8,6 +8,8 @@ import ErrorBoundry from '../components/ErrorBoundry.js';
 import { setSearchField, requestRobots } from "../action.js";
 
 
+
+
 const mapStateToProps = state => {
     return {
         searchField: state.searchRobots.searchField,
@@ -26,12 +28,7 @@ const mapDispatchToProps = (dispatch) => {
 
 
 class App extends Component {
-    constructor() {
-        super()
-        this.state = {
-            robots: [],
-        }
-    }
+
     componentDidMount() {
         this.props.onRequestRobots();
     }
