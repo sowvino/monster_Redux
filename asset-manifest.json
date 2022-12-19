@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/monsterFriend-Redux/static/css/main.0b073ff6.css",
-    "main.js": "/monsterFriend-Redux/static/js/main.0c772666.js",
-    "static/js/787.0bbab7d0.chunk.js": "/monsterFriend-Redux/static/js/787.0bbab7d0.chunk.js",
-    "static/media/SEGA.woff": "/monsterFriend-Redux/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/monsterFriend-Redux/index.html",
-    "main.0b073ff6.css.map": "/monsterFriend-Redux/static/css/main.0b073ff6.css.map",
-    "main.0c772666.js.map": "/monsterFriend-Redux/static/js/main.0c772666.js.map",
-    "787.0bbab7d0.chunk.js.map": "/monsterFriend-Redux/static/js/787.0bbab7d0.chunk.js.map"
+    "main.css": "/monster_redux/static/css/main.c275e63c.css",
+    "main.js": "/monster_redux/static/js/main.3be9cfe8.js",
+    "static/js/787.0bbab7d0.chunk.js": "/monster_redux/static/js/787.0bbab7d0.chunk.js",
+    "static/media/SEGA.woff": "/monster_redux/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/monster_redux/index.html",
+    "main.c275e63c.css.map": "/monster_redux/static/css/main.c275e63c.css.map",
+    "main.3be9cfe8.js.map": "/monster_redux/static/js/main.3be9cfe8.js.map",
+    "787.0bbab7d0.chunk.js.map": "/monster_redux/static/js/787.0bbab7d0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b073ff6.css",
-    "static/js/main.0c772666.js"
+    "static/css/main.c275e63c.css",
+    "static/js/main.3be9cfe8.js"
   ]
 }
